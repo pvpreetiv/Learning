@@ -1,0 +1,18 @@
+cm_hal_SetWanHttpSetting
+cm_hal_GetWanHttpSetting
+docsis_SetTftpServer
+cm_Hal_SetMACAddress
+cm_Hal_GetMACAddress
+cm_hal_SetSymbolClockIndicatorFlag
+cm_hal_SetRCPByPass
+
+
+
+
+	API(CM_HAL_SET_WAN_HTTP_SETTING)	\
+	API(CM_HAL_GET_WAN_HTTP_SETTING)	\
+	API(DOCSIS_SET_TFTP_SERVER)	\
+	API(CM_HAL_SET_MAC_ADDRESS)	\
+	API(CM_HAL_GET_MAC_ADDRESS)	\
+	API(CM_HAL_SET_SYMBOL_CLOCK_INDICATOR_FLAG)	\
+	API(CM_HAL_SET_RCP_BY_PASS)	\
